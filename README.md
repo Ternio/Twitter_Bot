@@ -39,6 +39,7 @@ Twitter bot for general purpose.
 ```
 
 ### 5. create .txt file and insert  Keywords and Names
+text file name does not matter as long as the exstension is set to .txt
 ```
     touch keywords.txt
 ```
